@@ -6,7 +6,8 @@
 
 4-)[ITEC442 Activity 3.docx](https://github.com/VUUXE/E-portfolio442/files/9959555/ITEC442.Activity.3.docx)
 
-5-)[ITEC442 Scanning Exercise-1.docx](https://github.com/VUUXE/E-portfolio442/files/9959556/ITEC442.Scanning.Exercise-1.docx)
+5-)[ITEC442 Scanning Exercise-1.docx](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963647/ITEC442.Scanning.Exercise-1.docx)
+
 
 6-)[Kali Linux and VMWare.docx](https://github.com/VUUXE/E-portfolio442/files/9959557/Kali.Linux.and.VMWare.docx)
 

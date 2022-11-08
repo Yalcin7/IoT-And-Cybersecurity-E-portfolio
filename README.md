@@ -1,4 +1,11 @@
-[ITEC442 Activity 3.docx](https://github.com/VUUXE/E-portfolio442/files/9959547/ITEC442.Activity.3.docx)
+1-)[Digitalization.docx](https://github.com/VUUXE/E-portfolio442/files/9959552/Digitalization.docx)
+2-)[ITEC442 Activity 1.docx](https://github.com/VUUXE/E-portfolio442/files/9959553/ITEC442.Activity.1.docx)
+3-)[ITEC442 Activity 2.docx](https://github.com/VUUXE/E-portfolio442/files/9959554/ITEC442.Activity.2.docx)
+4-)[ITEC442 Activity 3.docx](https://github.com/VUUXE/E-portfolio442/files/9959555/ITEC442.Activity.3.docx)
+5-)[ITEC442 Scanning Exercise-1.docx](https://github.com/VUUXE/E-portfolio442/files/9959556/ITEC442.Scanning.Exercise-1.docx)
+6-)[Kali Linux and VMWare.docx](https://github.com/VUUXE/E-portfolio442/files/9959557/Kali.Linux.and.VMWare.docx)
+7-)[SolarWinds Cyber Kill Chain.docx](https://github.com/VUUXE/E-portfolio442/files/9959558/SolarWinds.Cyber.Kill.Chain.docx)
+
 # vuuxe.github.io
 -WEEK 1 AND 2(Lecture 1&2)-
 •Cyber security: What is it and why is it important?

@@ -1,19 +1,3 @@
-1-)[Digitalization.docx](https://github.com/VUUXE/E-portfolio442/files/9959552/Digitalization.docx)
-
-2-)[ITEC442 Activity 1.docx](https://github.com/VUUXE/E-portfolio442/files/9959553/ITEC442.Activity.1.docx)
-
-3-)[ITEC442 Activity 2.docx](https://github.com/VUUXE/E-portfolio442/files/9959554/ITEC442.Activity.2.docx)
-
-4-)[ITEC442 Activity 3.docx](https://github.com/VUUXE/E-portfolio442/files/9959555/ITEC442.Activity.3.docx)
-
-5-)[ITEC442 Scanning Exercise-1.docx](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963647/ITEC442.Scanning.Exercise-1.docx)
-
-
-6-)[Kali Linux and VMWare.docx](https://github.com/VUUXE/E-portfolio442/files/9959557/Kali.Linux.and.VMWare.docx)
-
-7-)[SolarWinds Cyber Kill Chain.docx](https://github.com/VUUXE/E-portfolio442/files/9959558/SolarWinds.Cyber.Kill.Chain.docx)
-
-
 # vuuxe.github.io
 -WEEK 1 AND 2(Lecture 1&2)-
 •Cyber security: What is it and why is it important?
@@ -33,6 +17,14 @@
 •Scanning Activity 1 (Using command prompt in windows)
 
 •Creating a GitHub account and an E-portfolio
+
+[ITEC442 Scanning Exercise-1.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963817/ITEC442.Scanning.Exercise-1.pdf)
+
+[ITEC442 Activity 1.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963812/ITEC442.Activity.1.pdf)
+
+[ITEC442 Activity 2.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963813/ITEC442.Activity.2.pdf)
+
+[ITEC442 Activity 3.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963816/ITEC442.Activity.3.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,6 +47,11 @@ SEMINAR FOR SOLARWINDS ATTACK
 •What tools would you utilise in each phase? Give reasons for your answer.
 •Create a slide deck presentation with up to 4 slides that discuss your solution. Be prepared to present it at the seminar this week.
 
+[Digitalization.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963811/Digitalization.pdf)
+
+[SolarWinds Cyber Kill Chain.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963819/SolarWinds.Cyber.Kill.Chain.pdf)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -WEEK 5 AND 6(Lecture 5&6)-
@@ -75,7 +72,9 @@ Simulating DoS attack In this lab, you will learn to simulate a DoS attack. A de
 
 Setting up a Honeypot E-portfolio activity
 
-Honey pot is a computer system that is set up to trap cyber attackers who try to gain unauthorised access to information systems. Please see attached file.
+Honey pot is a computer system that is set up to trap cyber attackers who try to gain unauthorised access to information systems.
+
+[Kali Linux and VMWare.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963818/Kali.Linux.and.VMWare.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

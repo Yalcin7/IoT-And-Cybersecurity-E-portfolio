@@ -68,6 +68,14 @@ Example of  E-portfolio
 
 ❑ Tools and description
 
+Simulating a DoS Attack
+
+Simulating DoS attack In this lab, you will learn to simulate a DoS attack. A denial-of-service (DoS) attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet.
+
+Setting up a Honeypot E-portfolio activity
+
+Honey pot is a computer system that is set up to trap cyber attackers who try to gain unauthorised access to information systems. Please see attached file.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

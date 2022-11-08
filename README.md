@@ -1,5 +1,6 @@
 # vuuxe.github.io
 -WEEK 1 AND 2(Lecture 1&2)-
+
 •Cyber security: What is it and why is it important?
 
 •Common types of attacks in Cyber security

@@ -1,3 +1,4 @@
+[ITEC442 Activity 3.docx](https://github.com/VUUXE/E-portfolio442/files/9959547/ITEC442.Activity.3.docx)
 # vuuxe.github.io
 -WEEK 1 AND 2(Lecture 1&2)-
 •Cyber security: What is it and why is it important?

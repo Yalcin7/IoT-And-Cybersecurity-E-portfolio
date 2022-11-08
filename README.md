@@ -33,6 +33,7 @@ The seven steps of the Cyber Kill Chain® enhance visibility into an attack and 
 •Stride  and Dread  modelling
 
 SEMINAR FOR SOLARWINDS ATTACK
+
 •Create a table that analyses the solar winds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
 •Create a list of possible mitigations for each phase. Are there any phases you cannot mitigate?
 •What tools would you utilise in each phase? Give reasons for your answer.

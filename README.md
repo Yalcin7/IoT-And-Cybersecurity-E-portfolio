@@ -50,7 +50,7 @@ SEMINAR FOR SOLARWINDS ATTACK
 
 •What tools would you utilise in each phase? Give reasons for your answer.
 
-•Create a slide deck presentation with up to 4 slides that discuss your solution. Be prepared to present it at the seminar this week.
+
 
 
 [Digitalization.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963811/Digitalization.pdf)

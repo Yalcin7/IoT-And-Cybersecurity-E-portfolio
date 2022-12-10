@@ -104,7 +104,8 @@ Talked about some IoT projects that can be in our lifes in future and the IoT pr
 
 This is a small project about implementing IoT infrastructures into greenhouses.
 
-[Greenhouse IoT Infrastructure.docx](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/10199951/Greenhouse.IoT.Infrastructure.docx)
+[Greenhouse IoT Infrastructure.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/10199962/Greenhouse.IoT.Infrastructure.pdf)
+
 
 
 

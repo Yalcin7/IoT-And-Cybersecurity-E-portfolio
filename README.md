@@ -88,6 +88,7 @@ Honey pot is a computer system that is set up to trap cyber attackers who try to
 We discussed in class about attacks on enterprise networks(Active & Passive attacks) and also the steps to make those attacks.
 
 We learned and discussed about Man-in-the-middle attacks.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **-WEEK 8 AND 9(IoT Introduction)-**
 

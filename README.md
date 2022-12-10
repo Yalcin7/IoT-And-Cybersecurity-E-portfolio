@@ -83,6 +83,22 @@ Honey pot is a computer system that is set up to trap cyber attackers who try to
 [Kali Linux and VMWare.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963818/Kali.Linux.and.VMWare.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**-WEEK 6 AND 7(Lecture 6)-**
+We discussed in class about attacks on enterprise networks(Active & Passive attacks) and also the steps to make those attacks.
+We learned and talked about Man-in-the-middle attack as well in the class.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**-WEEK 8 AND 9(IoT Introduction)-**
+
+**IoT And Physical Computing**
+
+We made an introduction to IoT and Physical Computing.
+Learned about IoT devices in human life and enabling technologies.
+Talked about some IoT projects that can be in our lifes in future and the IoT projects that we used in present time in our lives.
+
+**Selecting an IoT Infrastructure**
+This is a small project about implementing IoT infrastructures into greenhouses.
+
+[Greenhouse IoT Infrastructure.docx](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/10199951/Greenhouse.IoT.Infrastructure.docx)
 
 
 

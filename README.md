@@ -1,5 +1,5 @@
 # vuuxe.github.io
-*-WEEK 1 AND 2(Lecture 1&2)-*
+**-WEEK 1 AND 2(Lecture 1&2)-**
 
 •Cyber security: What is it and why is it important?
 
@@ -29,7 +29,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*-WEEK 3 AND 4(Lecture 3&4)-*
+**-WEEK 3 AND 4(Lecture 3&4)-**
 
 •Collaborative Discussion 1- Digitalisation
 
@@ -60,7 +60,7 @@ SEMINAR FOR SOLARWINDS ATTACK
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*-WEEK 5 AND 6(Lecture 5&6)-*
+**-WEEK 5 AND 6(Lecture 5&6)-**
 
 Example of  E-portfolio 
 

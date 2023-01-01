@@ -106,6 +106,47 @@ This is a small project about implementing IoT infrastructures into greenhouses.
 
 [Greenhouse IoT Infrastructure.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/10199962/Greenhouse.IoT.Infrastructure.pdf)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**-WEEK 10 AND 11(IoT)-**
+
+This week we continued the lecture IoT and we learned more about different IoT infastructures
+
+Also we had a guest speaker Babak Reihani,Rehani has practical experience in design and construction of microcontroller boards and developing them in IoT and smart renewable energy . He is an expert in data analytics with python and modeler software. Also he has experience in designing solar power plants and a PV solar test Lab. He is the director of Smart Rasa Group.
+
+He helps mission-driven organizations leverage the power of IoT and data analytics to maximize their impact. He takes pride in listening to customers' needs and crafting well-architected, innovative, and scalable IoT solutions that help his customers achieve their goals.
+
+He is dedicated to engaging with IoT communities, educating, exciting, and inspiring them to build with and contribute to Smart systems
+
+He made a presentation to us about the history of IoT and the core aspects of IoT.He talked about how IoT changed the world with technology and the importance of IoT in the future.
+
+
+He also showed us some IoT devices such as smart camera,smart alarm system,motion sensoring device,heat meter etc. I really impressed about the things he explained and showed to us and I will definitely consider doing a career in IoT field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -27,6 +27,8 @@
 
 [ITEC442 Activity 3.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963816/ITEC442.Activity.3.pdf)
 
+At this week we made an introduction to the topic "Cyber Security" and ı found this topic quite fun to learn about.We made some scanning activities with our instructor Mr.Beran and these activities were so informative yet challenging because some of the commands we didn't know but we learned them in a short time and applied them. 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **-WEEK 3 AND 4(Lecture 3&4)-**
@@ -44,6 +46,8 @@ The seven steps of the Cyber Kill Chain® enhance visibility into an attack and 
 
 SEMINAR FOR SOLARWINDS ATTACK
 
+-ACTIVITIES FOR US-
+
 •Create a table that analyses the solar winds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
 
 •Create a list of possible mitigations for each phase. Are there any phases you cannot mitigate?
@@ -51,12 +55,11 @@ SEMINAR FOR SOLARWINDS ATTACK
 •What tools would you utilise in each phase? Give reasons for your answer.
 
 
-
-
 [Digitalization.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963811/Digitalization.pdf)
 
 [SolarWinds Cyber Kill Chain.pdf](https://github.com/VUUXE/IoT-And-Cybersecurity-E-portfolio/files/9963819/SolarWinds.Cyber.Kill.Chain.pdf)
 
+In this week we did a deeper introduction to cyber security.We processed how the malicious attacks work with the cyber kill chain model, item by item.Then we learned about 2 other models which are STRIDE and DREAD models then we go through the steps of those 3 models with bunch of examples and ideas.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
